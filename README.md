@@ -1,7 +1,7 @@
 # MAZE-GAME
 Group project of CSC207
 Steps to check this project:
-- open andriod studio
+- open android studio
 - checkout project from version control
 - git, then clone this repository
 - import android gradle
